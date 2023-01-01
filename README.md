@@ -1,6 +1,6 @@
 # To Do App Built using **React JS**.
 
-## Site Link - [Click here]()
+## Site Link - [Click here](https://parthsali-todoapp.netlify.app/)
 
 <img src = "./public/images/preview.png" width="80%">
 
