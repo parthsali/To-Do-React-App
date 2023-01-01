@@ -1,4 +1,4 @@
-# To Do App Built using **React JS**.
+# To Do App
 
 ## Site Link - [Click here](https://parthsali-todoapp.netlify.app/)
 
