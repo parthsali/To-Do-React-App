@@ -27,7 +27,6 @@ const App = () => {
   }
 
   const deleteTask = (id) => {
-    console.log("deleted.");
     setFinalTask((prevState) => {
       return prevState.filter((arrEle, index) => {
         return id !== index;
