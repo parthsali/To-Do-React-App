@@ -2,7 +2,7 @@
 
 ## Site Link - [Click here]()
 
-<img src = "./public/images/preview.png" width="80%">
+<img src = "./public/images/preview.png" width="100%" align="center">
 
 ## Getting Started with Create React App
 
