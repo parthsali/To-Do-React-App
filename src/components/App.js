@@ -43,6 +43,7 @@ const App = () => {
   return (
     <>
       {/* <Navbar /> */}
+
       <div className='main_div' >
         <div className='center_div'>
           <h2 className='heading'>{`${currentDay} | ${currentDate} `}</h2>

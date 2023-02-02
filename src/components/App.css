@@ -137,3 +137,56 @@ ol {
 .cancel_item:hover {
   background-color: red;
 }
+
+
+/* Responsive Designing */
+
+@media screen and (max-width:767px) {
+  .center_div {
+    width: 80%;
+  }
+
+  .heading {
+    font-size: 25px;
+  }
+
+  .input_box {
+    width: 100%;
+  }
+
+  .input_field {
+    margin: 0 7px 0 18px;
+    font-size: 17px;
+    padding: 6px 0px;
+    height: 25px;
+  }
+
+  .add_btn {
+    width: 25px;
+    height: 25px;
+    font-size: 23px;
+  }
+
+  .task_menu {
+    margin: 10px 0;
+  }
+
+  .task_item {
+    margin: 8px;
+    padding: 0;
+  }
+
+  .task_text {
+    font-size: 16px;
+    margin: 0;
+  }
+
+  .cancel_item {
+    width: 25px;
+    height: 25px;
+    position: relative;
+    top: 2px;
+    font-size: 25px;
+    margin: 0 10px;
+  }
+}
