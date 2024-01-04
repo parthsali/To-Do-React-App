@@ -1,6 +1,6 @@
 # To Do App
 
-## Site Link - [Click here](https://parthsali-todoapp.netlify.app/)
+## Site Link - [Click here](https://to-do-react-app.parthsali.tech/)
 
 <img src = "./public/images/preview.png" width="100%" align="center">
 
